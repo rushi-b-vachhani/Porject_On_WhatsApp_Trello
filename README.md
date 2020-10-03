@@ -30,5 +30,7 @@ Working on it my adding more operations in this Web-app. Would be happy if anyon
 
 ----------Contact----------
 Email : rushi.b.vachhani@gmail.com
+
 LinkedIn : linkedin.com/in/rushi-vachhani
+
 Instagram : https://www.instagram.com/rushibvachhani/
