@@ -14,6 +14,7 @@ To accomplish we need:
 4. A web app which with utilize trellos API and eventually by which we can perform different operations in trello.
 
 ------------------------------VERSION 1------------------------------
+
 I have just implemented a web-app, using Django-Framework, by which I can accomplish following tasks:
 		1. Send a message, in a particular pattern, from whatsapp. Message contains "CREATE BOARD COMMAND" and "BOARD NAME". Eg. @createboard-Home_Cores
 		2. Django web-app can read that message and accordingly perfrom operation in trello, which creates a board with the provided "BOARD NAME", in our example it is "Home_Chores"
@@ -21,6 +22,7 @@ I have just implemented a web-app, using Django-Framework, by which I can accomp
 
 
 ------------------------------VERSION 2------------------------------
+
 Working on it my adding more operations in this Web-app. Would be happy if anyone wants to work togather.
 
 
@@ -29,6 +31,7 @@ Working on it my adding more operations in this Web-app. Would be happy if anyon
 
 
 ----------Contact----------
+
 Email : rushi.b.vachhani@gmail.com
 
 LinkedIn : linkedin.com/in/rushi-vachhani
